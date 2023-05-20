@@ -1,0 +1,144 @@
+  .redes-sociales-titulo {
+    font-size: 40px;
+    float: right
+}.secciones-lista {
+    text-align: center;
+    list-style-type: none;
+    background-color:#001c38;
+    padding: 10px;
+    margin-bottom: 50px;
+  }
+  .secciones-lista li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  .secciones-lista li a {
+    color: white;
+  }
+  body {
+    color: #0660cc;
+    background-color: #ffffff;
+    font-family: 'Arial', sans-serif;
+  }
+
+  body div h2 {
+    background: #001c38;
+  }
+  .quienes-somos {
+    width: 100%;
+    float: right;
+    color: #ffffff;
+    background:#001c38;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  .quienes-somos img{
+    height: 200px;
+    float: left;
+    margin-bottom: 20px;
+  }
+
+  .mision-vision {
+    width: 50%;
+    float: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #ffffff;
+    background:#001c38;
+    text-align: center;
+    clear: both;
+  }
+  .img-vision-mision {
+    float: right;
+    width: 50%;
+    text-align: center;
+    overflow: hidden; 
+    margin-bottom: 50px; 
+  } 
+  .img-vision-mision {
+    height: 364px;
+  }
+  .productos {
+    width: 100%;
+    float: center;
+    clear: both;
+    text-align: center;
+    margin-bottom: 50px;;
+  }
+  .productos img{
+    height: 250px;
+  }
+  .productos h2{
+    float: center;
+    color: #ffffff;
+    background:#001c38;
+  }
+  .productos h3{
+    float: center;
+    color: #666262;
+    background: #b6d0eb;
+  }
+  .proveedores {
+    width: 100%;
+    float: center;
+    clear: both;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  .proveedores img{
+    height: 100px;
+  }
+  .proveedores h2{
+    float: center;
+    color: #ffffff;
+    background:#001c38;
+  }
+  .proveedores h3{
+    float: center;
+    color: #666262;
+    background: #b6d0eb;
+  }
+  .clientes {
+    width: 100%;
+    float: center;
+    clear: both;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  .clientes img{
+    height: 100px;
+  }
+  .clientes h2{
+    float: center;
+    color: #ffffff;
+    background:#001c38;
+  }
+  .clientes h3{
+    float: center;
+    color: #666262;
+    background: #b6d0eb;
+  }
+  .ubiquenos {
+    width: 100%;
+    float: center;
+    clear: both;
+    color: #ffffff;
+    background:#001c38;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .ubiquenos iframe{
+    margin-bottom: 20px;
+  }
+  body footer {
+    color: #ffffff;
+    background:#001c38;
+    text-align: center;
+    clear: both;
+  }
+  body footer div a {
+    color: #ffffff;
+    background:#001c38;
+    font-size: 32px;
+  } 
